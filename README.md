@@ -4,16 +4,16 @@
 
 
   <img src="https://camo.githubusercontent.com/5bbf8ca61ef5f92684489ace45ad6f45984fff87a621040c62b1fe31e3005ff9/687474703a2f2f692e696d6775722e636f6d2f436a34724d72532e676966" width="30">
-  Welcome to three-js-master's profile!
+  Welcome to     three-js-master's     profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <br>
-<h2 align="center">Hi 👋! My name is Royal and I'm a Full Stack Developer from Denmark.</h2>
+<h2 align="center">Hi 👋! I'm a Three.js/ WebGL / Unity Developer.</h2>
 <br>
 
 ###
 
-
+<img align="right" width="100%" src="assets/app.jpg"  />
 
 ###
 
@@ -101,8 +101,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aurora-820&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aurora-820&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=three-js-master&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=three-js-master&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
@@ -112,7 +112,7 @@
   
 # 💫About Me :
 
-  <a href="https://app.daily.dev/Aurora3820"><img src="https://api.daily.dev/devcards/565f6a96caa04ba597ad5ed40c013458.png?r=xvu" width="400" alt="aurora galaxy's Dev Card"/></a>
+  <a href="https://app.daily.dev/Aurora3820"><img src="assets/565f6a96caa04ba597ad5ed40c013468.png" width="400" alt="three-js-master Card"/></a>
   
 🔭 I’m currently working on : Nothing
   
