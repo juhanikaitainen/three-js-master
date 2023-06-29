@@ -12,7 +12,6 @@
 ---
 
 # 📊GitHub Stats :
-</div>
 
 <br clear="both">
 
