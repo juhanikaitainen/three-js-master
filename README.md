@@ -3,6 +3,9 @@
 ---
  
 ## 🤗 Welcome
+<br>
+<h2 align="center">Hi 👋! I'm a Shopify/ WordPress / Laravel Developer.</h2>
+<br>
 
 <p align=center>
 <div align=center>
