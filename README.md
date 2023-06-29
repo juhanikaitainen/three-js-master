@@ -6,10 +6,12 @@
 <h2 align="center">Hi 👋! I'm a Three.js / Shopify/ WordPress Developer.</h2>
 <br>
 
+<div align="center">
 ###
 ---
 
 # 📊GitHub Stats :
+</div>
 
 <br clear="both">
 
