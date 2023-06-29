@@ -5,7 +5,18 @@
 <h2 align="center">## 🤗 Welcome </h2>
 <h2 align="center">Hi 👋! I'm a Three.js / Shopify/ WordPress Developer.</h2>
 <br>
+###
+---
 
+# 📊GitHub Stats :
+
+<br clear="both">
+
+[![Code's github activity graph](https://raw.githubusercontent.com/athene227/athene227/output/snake.svg)](https://skyline.github.com/smilewebmaster)
+
+</div>
+
+###
 <p align=center>
 <div align=center>
   <img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=three-js-master&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
